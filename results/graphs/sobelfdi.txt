@@ -1,0 +1,24 @@
+	(1)
+VARIABLES	lninno
+	
+lnhcapital	0.987***
+	(0.114)
+lnfdi	0.315***
+	(0.0429)
+lnfinance	0.764***
+	(0.116)
+lntran	0.396***
+	(0.0617)
+lnindustry	0.785***
+	(0.106)
+lninfo	0.640***
+	(0.0488)
+lnOPEN	0.213***
+	(0.0459)
+Constant	-3.784***
+	(0.909)
+	
+Observations	360
+R-squared	0.911
+Standard errors in parentheses	
+*** p<0.01, ** p<0.05, * p<0.1	
