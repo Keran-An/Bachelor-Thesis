@@ -15,3 +15,9 @@
 ## OFDI Subgroup Regression
 
 ![OFDI Subgroup Regression](results/graphs/05_OFDI_subgroup_regression.txt)
+
+## Mediation Analysis
+![Mediation_FDI](results/graphs/06_Mediation_FDI.txt)
+![Mediation_FDI_Sobel](results/graphs/06_Mediation_FDI_sobel.txt)
+![Mediation_OFDI](results/graphs/07_Mediation_OFDI.txt)
+![Mediation_OFDI_Sobel](results/graphs/07_Mediation_OFDI_sobel.txt)
