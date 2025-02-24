@@ -1,4 +1,7 @@
-## Main Regression Results
+## Description
+
+
+## Regression Results
 
 ![Main Regression Results](results/graphs/regression_main.png)
 
@@ -6,7 +9,7 @@
 
 ![Mediation Effect](results/graphs/mediation_effect.png)
 
-## Regression Results Table
+## Regression Results 
 
 [Download Regression Results (Excel)](results/tables/regression_results.xlsx)
 
