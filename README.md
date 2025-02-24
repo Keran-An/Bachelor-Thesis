@@ -30,6 +30,7 @@
 | 5    | `05_mediation_analysis.do`| Mediation effect analysis                          |
 
 ### Resutls
+[!Results](#)
 - The research results show that two-way FDI has a positive effect on innovation capability, among which FDI has a more obvious role in promoting China's innovation capability. Meanwhile, the developments of two-way FDI in the east, middle and west regions of China differ significantly, among which the eastern region, as the main undertaking and origin of two-way FDI, is also in the leading position in terms of innovation level.
 - The results of the intermediary effect model show that the human capital enhancement effect is one of the important channels for two-way FDI to play a role in promoting innovation capability.
 - Taking into account the current economic background, this paper proposes to strengthen policy support, encourage enterprises to be globalization, pay attention to the quality of FDI, and attract high-level capital inflows. Each region should also develop two-way FDI according to local conditions, pay attention to talent cultivation, strengthen the construction of intellectual property rights system, and enhance their competitiveness.
