@@ -1,9 +1,10 @@
+* Importing raw data, data cleaning, handling missing and abnormal values
 clear
 cd "F:\毕业论文\数据\数据整合"
 import excel using "bachelor_thesis_data_sum.xlsx", first clear
 browse
 
-*对数处理
+* Logarithmic transformation of variables
 gen lninno=ln(inno)
 gen lnfdi=ln(fdi)
 gen lnodi=ln(odi)
@@ -15,7 +16,7 @@ gen lninfo=ln(info)
 gen lnhcapital=ln(hcapital)
 gen lnOPEN=ln(OPEN)
 
-*面板
+* Constructing panel data structure (xtset)
 encode 省份, gen(PROVINCE)
 xtset PROVINCE YEAR
-*描述统计
+
