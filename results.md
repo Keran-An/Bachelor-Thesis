@@ -1,18 +1,17 @@
-## Description
+## Descriptive Anakysis
+![Descriptive Anakysis](results/graphs/01_descriptive_analysis.txt)
 
+## Multicollinearity Checks
+![Multicollinearity Checks](results/graphs/02_multicollinearity_checks.txt)
 
-## Regression Results
+## Regression Result
 
-![Main Regression Results](results/graphs/regression_main.png)
+![Regression Result](results/graphs/03_regression_result.txt)
 
-## Mediation Effect Results
+## FDI Subgroup Regression
 
-![Mediation Effect](results/graphs/mediation_effect.png)
+![FDI Subgroup Regression](results/graphs/04_FDI_subgroup_regression.txt)
 
-## Regression Results 
+## OFDI Subgroup Regression
 
-[Download Regression Results (Excel)](results/tables/regression_results.xlsx)
-
-## Mediation Analysis Table
-
-[Download Mediation Analysis (Excel)](results/tables/mediation_analysis.xlsx)
+![OFDI Subgroup Regression](results/graphs/05_OFDI_subgroup_regression.txt)
